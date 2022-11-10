@@ -7,4 +7,4 @@ you have to follow these steps to run this project..
                             npm install
                             npm install dotenv
                             npm run start || dev
-4.Dont forget reset your DB details..
+4.Dont forget to reset your DB details.. in  .env file.
